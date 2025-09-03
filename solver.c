@@ -31,3 +31,5 @@ void solve_nqueens(int n) {
     free(board);
 }
 
+
+
